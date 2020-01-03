@@ -90,8 +90,19 @@
         <div class="col-md-6 col-md-offset-3">
           <h2>Application Example</h2>
           <p>
-            <img src="redrose.jpeg">
+            <img src="bluerose.jpeg">
           </p>
+          <svg height="200" width="250">
+                    <path class="my-shape" fill="#0b3269" d="M56 96 C 120 20, 226 20, 216 64" />
+                    <path class="my-shape" fill="#0b3269" d="M32 126 C -8 216, 186 196, 216 64" />
+                    <path class="my-shape" fill="#0b3269" d="M124 80 L216 64 L124 108 Z" />
+                    
+                    <path class="my-shape" fill="white" stroke="#0b3269" d="M56 96 C 100 56, 136 80, 124 92" />
+                    <path class="my-shape" fill="white" stroke="#0b3269" d="M32 126 C 24 166, 116 136, 124 92" />
+                    <text class="my-shape" x="42" y="122" font-size="26" fill="#0b3269">ZALA</text>
+                    <text class="my-shape" x="116" y="122" font-size="26" fill="white">SZÁM</text>
+                    Sorry, your browser does not support inline SVG.
+            </svg>
         </div>
       </div>
         </div><!-- /col -->
