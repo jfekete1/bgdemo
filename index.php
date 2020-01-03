@@ -101,7 +101,6 @@
                     <text class="my-shape" x="116" y="122" font-size="26" fill="white">SZÁM</text>
                     Sorry, your browser does not support inline SVG.
             </svg>
-            <img src="bluerose.jpeg">
           </p>
         </div>
       </div>
