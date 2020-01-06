@@ -38,7 +38,7 @@
           <span class="icon-bar"></span>
         </button>
         <a class="navbar-brand" href="/">
-          <img src="../dist/img/brand.svg" alt="PatternFly Enterprise Application" />
+          <img src="../dist/img/brand.svg" alt="Zalaszám Enterprise Application" />
         </a>
       </div>
       <div class="collapse navbar-collapse navbar-collapse-1">
